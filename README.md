@@ -3,7 +3,7 @@ This repository contains the best resources for coding interview prep and master
 
 ## Data Structures & Algorithms
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
-- [Linked List](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+- ✅ [Linked List](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/Become-Master-In-Recursion)
 - [Sorting](https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add)
 - [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
